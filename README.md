@@ -1,2 +1,2 @@
 # NoRitmo
-Sistema de app de música
+CRUD de um app de música
